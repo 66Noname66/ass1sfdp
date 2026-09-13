@@ -58,7 +58,5 @@ The Builder Pattern separates the construction of a complex object from its repr
 
 The same construction process can be used to create different configurations of a Computer.
 
- Author
+<img width="1427" height="381" alt="image" src="https://github.com/user-attachments/assets/b96517b4-024d-436e-980b-19c687785cb9" />
 
-Individual Assignment — ShP-2216
-Astana IT University
